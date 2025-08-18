@@ -33,3 +33,9 @@ code-line-numbers: false
 code-block-font-size: "0.85em"
 ---
 
+## Topics
+
+- Julia installation & configuration
+- GitHub Classroom workflow  
+- Quarto document structure
+
