@@ -31,8 +31,6 @@ format:
     number-sections: true
     fig-format: svg
 
-theme: simplex
-
 execute: 
   cache: true
   freeze: auto
