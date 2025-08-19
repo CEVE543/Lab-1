@@ -41,9 +41,31 @@ code-line-numbers: false
 code-block-font-size: "0.85em"
 ---
 
-## Topics
+## Objectives
 
-- Julia installation & configuration
-- GitHub Classroom workflow  
-- Quarto document structure
+1. Ensure fully functional software environment
+1. Establish reproducible analysis workflow
+
+## Before
+
+::: {.callout-important}
+## Instructions
+
+Do this before the lab date so that lab itself can go more smoothly.
+:::
+
+## Background and Reading
+
+<!-- Content will be added here -->
+
+## Tasks
+
+Modify the code section below to address the following tasks.
+
+1. Set up Julia environment and verify installation
+1. Complete GitHub Classroom workflow setup
+1. Create and render a basic Quarto document
+1. Test the complete workflow from GitHub to rendered output
+
+## Code
 
